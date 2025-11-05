@@ -26,3 +26,6 @@ Design Steps for Differential Amplifier Stage
 
 
 <img width="1136" height="836" alt="image (4)" src="https://github.com/user-attachments/assets/da269376-f863-4b5a-b511-3f7cfd13f9eb" />
+
+![2](https://github.com/user-attachments/assets/783205b7-e49a-4f40-b843-b7dc22b690b1)
+
